@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Method API</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="belum_punya_akun"><font color='#000000'>Belum punya akun? Klik disini untuk </font><font color='#FF018786'>Daftar</font></string>
+    <string name="sign_in">Sign In</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="sign_inn">Sign In</string>
+    <string name="already_have_an_account">Already have an account</string>
+    <string name="passwordd">Password</string>
+    <string name="emaill">Email</string>
+    <string name="usernamee">Username</string>
+    <string name="register">Register</string>
+    <string name="confirm">Confirm</string>
+    <string name="logout">Logout</string>
+</resources>
